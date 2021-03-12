@@ -1,0 +1,6 @@
+def some_func(x1=10, x2=20):
+	if x1 <= 0 or x2 <= 0:
+		return "Expect positive int"
+	return x1 + x2
+
+print("Some str")

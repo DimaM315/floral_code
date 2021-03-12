@@ -1,0 +1,32 @@
+/* floral code */
+
+.block_code{
+    margin: 15px 0px;
+    padding: 17px 20px 20px;
+    border: 1px solid #e5e8ec;
+    background: #282923;
+    color:white;
+    font-family: Menlo,Monaco,'Consolas','Courier New',monospace;
+}
+
+.code-comment{
+    color:#8e908c;
+}
+.code-keyword, .code-operation{
+    color:#F92472;
+}
+.code-int, .code-primary-value{
+    color:#936DC4;
+}
+.code-method, .code-def-keyword{
+    color:#2AD8DA;
+}
+.code-method-param{
+    color:#FD9622;
+}
+.code-method-arg, .code-str{
+    color:#FFDB00;
+}
+.code-method-def{
+    color:#96CE2B;
+}
