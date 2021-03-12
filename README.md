@@ -5,4 +5,3 @@ Steps To Follow.
 For example, run this command inside your terminal:
 git clone ...
 
-Replace <your-github-username>!
